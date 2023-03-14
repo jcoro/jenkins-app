@@ -12,7 +12,7 @@ pipelineJob('theme-park-job') {
             scm {
                 git {
                     remote {
-                        url 'https://github.com/jcoro/spring-boot-app.git'
+                        url 'https://github.com/tkgregory/spring-boot-api-example.git'
                     }
                     branch 'master'
                 }
