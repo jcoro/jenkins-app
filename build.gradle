@@ -27,7 +27,7 @@ if (DefaultNativePlatform.getCurrentOperatingSystem().isWindows()) {
 
 def out = new ByteArrayOutputStream()
 process.waitForProcessOutput(out, System.err)
-String dockerSockGroupId = "root"
+String dockerSockGroupId = "staff"
 System.out.println("dockerSockGroupId:")
 System.out.println(dockerSockGroupId)
 
