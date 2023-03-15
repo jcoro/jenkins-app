@@ -2,3 +2,5 @@ authorize-project:1.4.0
 job-dsl:1.81
 workflow-aggregator:590.v6a_d052e5a_a_b_5
 git:4.11.4
+aws-credentials:191.vcb_f183ce58b_9
+pipeline-aws:1.43
